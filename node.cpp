@@ -1,3 +1,4 @@
+// @author Thad Shinno
 #include "node.h"
 
 // double linked list has a value, a next node, and previous node
